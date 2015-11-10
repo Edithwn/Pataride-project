@@ -233,12 +233,12 @@ h1{font-family: 'Ubuntu', sans-serif;
 }
 .map{
   float: left;
-  margin: 30px 10px 20px 20px;
+  margin: 30px 10px 20px 30px;
 }
 
 .form{
     background-color: #d5d9da;
-    margin: 30px 20px 20px 0px;
+    margin: 30px 30px 20px 0px;
     float: right;
     padding: 10px 10px 10px 10px;
     color: #0099cc;
@@ -280,9 +280,9 @@ textarea {
 
 footer{
   background-color: #272722;
-  height: 100px;
+  height: 50px;
   width: 100%;
-  padding: 30px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
   color: #fff;
    
   
@@ -302,7 +302,7 @@ footer p{font-size:12px;
 #gog{
   
   margin-left: 0px;
-  margin-top: 140px;
+  margin-top: 180px;
 }
 #icons{
    text-align: center;
@@ -317,11 +317,11 @@ footer p{font-size:12px;
   position: relative;
     
   z-index: -100px;
-  opacity: 0.7;
-  filter: alpha(opacity=70);
-  width: 600px;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  width: 450px;
   text-align: center;
-  margin: 500px 0px 0px 120px;
+  margin: 450px 0px 0px 150px;
   background-color:#cc3333;
   height: 62px;
   line-height:31px;

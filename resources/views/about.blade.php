@@ -153,7 +153,7 @@
 
         <footer>
 
-           +254 722 000000 | +254 70390940 | pataridejiell@gmail.com <br> <p> Privacy and policy
+            <p> Privacy and policy
            | All rights reserved | copyright2015 </p>
         </footer>
    
